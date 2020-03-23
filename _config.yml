@@ -1,11 +1,11 @@
 # Site settings
 author: Jake Garcia
-title: NPR CLI Data Gem Project
+title: Jake = Developer.new
 header-img: img/home-bg.png
 email: bballwiz4@gmail.com
 copyright_name: Jake Garcia
 description: > # this means to ignore newlines until "baseurl:"
-  Scrape the news from NPR and present it through a CLI
+  Continue to Learn and Grow
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jgarcia4444
